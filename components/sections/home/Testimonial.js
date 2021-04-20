@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import TestimonialCards from '../../TestimonialCard';
-import TestimonialData from '../../../data/TestimonialData';
+import TestimonialData from '../../../data/testimonialdata';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Autoplay } from 'swiper';
 import useWindowDimensions from '../../useWindowDimensions';

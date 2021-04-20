@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import TestimonialData from '../../../data/TestimonialData';
+import TestimonialData from '../../../data/testimonialdata';
 import Image from 'next/image';
 const Clients = () => {
   return (
