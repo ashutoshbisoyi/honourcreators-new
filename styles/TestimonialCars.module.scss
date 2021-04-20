@@ -1,0 +1,14 @@
+.card {
+  box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff;
+  padding: 1em;
+  margin: 1em auto;
+  p {
+    font-weight: 500;
+    min-height: 250px;
+  }
+  .clienInfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
