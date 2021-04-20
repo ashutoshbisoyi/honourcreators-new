@@ -1,5 +1,5 @@
 import ServiceCard from '../../ServiceCard';
-import OurServiceData from '../../../data/OurServiceData';
+import OurServiceData from '../../../data/ourservicedata';
 import { Container, Row } from 'react-bootstrap';
 const OurServices = () => {
   return (
